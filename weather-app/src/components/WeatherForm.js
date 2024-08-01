@@ -6,8 +6,9 @@ const WeatherForm = ({ getWeather }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    getWeather(city);
-    setCity('');
+    if (city) {
+      getWeather(city);
+    }
   };
 
   return (
