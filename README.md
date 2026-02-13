@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cookbook4u00.web.app/" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-View%20Here-skyblue?style=for-the-badge" />
   </a>
 </p>
